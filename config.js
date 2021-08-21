@@ -1,20 +1,20 @@
 
         module.exports = {
             bot: {
-                token: "", // Bot List Bot Token from https://discord.com/developers/applications
-                prefix: "",
-                owners: [""],
-                mongourl: "",  //https://mongodb.com/cloud/atlas/register
+                token: "NjE3NzM1ODQ0NjE0MjQyMzA0.XWvdVg.HQoh7X4gEpKf94rvdrG2YA-DT0Q", // Bot List Bot Token from https://discord.com/developers/applications
+                prefix: "x.",
+                owners: ["548161806393147403"],
+                mongourl: "mongodb+srv://Database12:rollviral1234@cluster0.ztghi.mongodb.net/test",  //https://mongodb.com/cloud/atlas/register
                 servers: {
-                    token: "", // Server List Bot Token
-                    prefix: ""
+                    token: "NjE3NzU2MzIxMDcyMDIxNTcy.XWvwaA.Yohcvxijat_nLdYo_agZyp6atOU", // Server List Bot Token
+                    prefix: "s."
                 }
             },
         
             website: {
-                callback: "", //example : https://vcodes.xyz avoid / at last. 
-                secret: "",
-                clientID: "", // Bot client id.
+                callback: "www.hiddenfox.tk", //example : https://vcodes.xyz avoid / at last. 
+                secret: "mG85Qot41AXRYN11jg4l6uHJLs2gOCTf",
+                clientID: "617735844614242304", // Bot client id.
                 tags: [ "Moderation", "Fun", "Minecraft","Economy","Guard","NSFW","Anime","Invite","Music","Logging", "Web Dashboard", "Reddit", "Youtube", "Twitch", "Crypto", "Leveling", "Game", "Roleplay", "Utility", "Turkish" ],
                 languages: [
                     { flag: 'gb', code: 'en', name: 'English' },
