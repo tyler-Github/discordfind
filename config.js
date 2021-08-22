@@ -12,7 +12,7 @@
             },
         
             website: {
-                callback: "https://discordfind.glitch.me/callback", //example : https://vcodes.xyz avoid / at last. 
+                callback: "https://www.discordfind.tk/callback", //example : https://vcodes.xyz avoid / at last. 
                 secret: "zXxWAwO6fkABYF30brxB2Fbmss2zZWZ8",
                 clientID: "617735844614242304", // Bot client id.
                 tags: [ "Moderation", "Fun", "Minecraft","Economy","Guard","NSFW","Anime","Invite","Music","Logging", "Web Dashboard", "Reddit", "Youtube", "Twitch", "Crypto", "Leveling", "Game", "Roleplay", "Utility", "Turkish" ],
