@@ -12,9 +12,9 @@
             },
         
             website: {
-                callback: "https://hiddenfox.tk/callback", //example : https://vcodes.xyz avoid / at last. 
-                secret: "JxkQG4PixCpfdHFbq8j-C6E3-4e_7laS",
-                clientID: "827289063195279380", // Bot client id.
+                callback: "https://discordfind.glitch.me/callback", //example : https://vcodes.xyz avoid / at last. 
+                secret: "zXxWAwO6fkABYF30brxB2Fbmss2zZWZ8",
+                clientID: "617735844614242304", // Bot client id.
                 tags: [ "Moderation", "Fun", "Minecraft","Economy","Guard","NSFW","Anime","Invite","Music","Logging", "Web Dashboard", "Reddit", "Youtube", "Twitch", "Crypto", "Leveling", "Game", "Roleplay", "Utility", "Turkish" ],
                 languages: [
                     { flag: 'gb', code: 'en', name: 'English' },
@@ -124,13 +124,13 @@
             },
         
             server: {
-                id: "",
+                id: "869955634773241896",
                 invite: "https://discord.gg/z7dBzygse4",
                 roles: {
                     administrator: "",
-                    moderator: "",
+                    moderator: "870009086958243860",
                     profile: {
-                        sitecreator : "",
+                        sitecreator : "870025655570530344",
                         booster: "",
                         sponsor: "",
                         supporter: "",
@@ -155,7 +155,7 @@
                 },
                 channels: {
                     codelog: "",
-                    login: "",
+                    login: "878920136508190781",
                     webstatus: "",
                     uptimelog: "",
                     botlog: "",
