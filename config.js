@@ -13,8 +13,8 @@
         
             website: {
                 callback: "https://hiddenfox.tk/callback", //example : https://vcodes.xyz avoid / at last. 
-                secret: "mG85Qot41AXRYN11jg4l6uHJLs2gOCTf",
-                clientID: "617735844614242304", // Bot client id.
+                secret: "JxkQG4PixCpfdHFbq8j-C6E3-4e_7laS",
+                clientID: "827289063195279380", // Bot client id.
                 tags: [ "Moderation", "Fun", "Minecraft","Economy","Guard","NSFW","Anime","Invite","Music","Logging", "Web Dashboard", "Reddit", "Youtube", "Twitch", "Crypto", "Leveling", "Game", "Roleplay", "Utility", "Turkish" ],
                 languages: [
                     { flag: 'gb', code: 'en', name: 'English' },
